@@ -140,6 +140,7 @@ ul {
 /* hero */
 
 .hero {
+  display: flex;
   max-width: 1600px;
   height: 600px;
   margin-left: auto;
@@ -157,8 +158,6 @@ ul {
 }
 .herocontent {
   max-width: 700px;
-  padding-top: 200px;
-  padding-bottom: 200px;
   margin: auto;
 }
 .hero-title {
